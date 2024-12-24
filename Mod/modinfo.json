@@ -1,0 +1,11 @@
+{
+    "id": "shrubfromtomorrow.trainTrains",
+    "name": "Train Trains",
+    "version": "0.1.0",
+    "target_game_version": "v1.9",
+    "authors": "shrubfromtomorrow",
+    "description": "Make train lizards choo choo as they always should have",
+    "requirements": [ "moreslugcats" ],
+    "requirements_names": [ "More Slugcats Expansion" ],
+    "checksum_override_version": false
+  }
